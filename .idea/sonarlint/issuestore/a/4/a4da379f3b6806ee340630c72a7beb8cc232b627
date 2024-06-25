@@ -1,8 +1,8 @@
 
-h
-java:S1192"LDefine a constant instead of duplicating this literal "cookieValue" 3 times.(¼Åñn8ß³í„2
-e
-java:S1192"HDefine a constant instead of duplicating this literal "setUser" 4 times.(ƒİÒû8à³í„2
-u
-java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ñõ¼8ã³í„2
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ªÌ»úÿÿÿÿ8ç³í„2
+
+java:S1192"LDefine a constant instead of duplicating this literal "cookieValue" 3 times.(¼Åñn8ß³í„2J$97c03814-e1c3-4aac-acb2-0b8bd44d9bdb
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "setUser" 4 times.(ƒİÒû8à³í„2J$9aa2694b-6f02-4ac5-9f8c-31152074b79b
+›
+java:S3753"XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(Ñõ¼8ã³í„2J$f8b16b5d-0e37-4222-bca8-395ee05e245d
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ªÌ»úÿÿÿÿ8ç³í„2J$f480abd5-8587-4986-869e-8b63a9572093

@@ -30,7 +30,7 @@ public class UserController {
                           @CookieValue(value = "setUser", defaultValue = "") String setUser,
                           HttpServletResponse response, HttpServletRequest request) {
 
-        if (user.getEmail().equals("hainam141199@gmail.com)")
+        if (user.getEmail().equals("hainam141199@gmail.com")
                 && user.getPassword().equals("hainam141199")) {
             if (user.getEmail() != null) {
                 setUser = user.getEmail();
